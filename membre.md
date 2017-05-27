@@ -336,3 +336,13 @@ Long live Js!
 - **Site Web** : http://www.azertywb.hebergratuit.net/accueil.html en php
 Hey salut à tous,
 J'ai 16ans, j'ai commencé à programmer il y a environ 1 an par le html/css, j'ai ensuite appris le PHP,  d'ailleurs j'ai réalisé mon site comme ca. Ensuite j'ai appris le JavaScript, d'ailleurs j'apprends toujours ^^. J'essaye aussi de m'améliorer en Design. Je suis passé un peu par tout C++, C#, C, Unity, sans rien de concret, j'ai maintenant trouvé mon objectif, LE WEB.
+
+
+## Steflight
+- **Nom** : AGOUME KOUFANA INGRID STEPHANE 
+- **Age** :22 ans
+- **Metier** :  Developpeur Fullstack et consultant IT
+- **Competence clés** : HTML,CSS , JAVASCRIPt , Angular ,TOGAF
+- **Site web**: http://stephaneagoume.com/
+
+Je vis au cameroun (Afrique) . CEO du group Dolp qui conçoit et met en place des solutions de transformation digitale. Notamment dans le logement (http://gethome.biz/) et pour les impressions en ligne , nous avons lancé dolphprint. je dirige egalement une startup de developpeur (prestation de service). Dépuis 6 ans je m'interesse au developpement/programmation. J'ai developpé des petits logiciels de gestion en visuel basic pour des boutiques de mon quarier, et je me  suis mis au developpement web juste apres. j'ai appris le HTMl / css... et très vite je suis devenu freelance, aujourd'hui je met un accent particulier sur les technologies liées à JS telles que Angular , typescript , Node . Sur un plan strategique je m'interesse à l'architecture d'entreprise. 
